@@ -1,12 +1,11 @@
 print('Python Programming')
-
 # This is a comment
 
 """
-Multi 
+Multi
 Line
 Comments
 """
 
-print(" i love \"Python\"")
-
+print("I love \"Python\"")
+print('I love "Python"')
